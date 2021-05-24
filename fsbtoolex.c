@@ -23,6 +23,7 @@
 extern char **environ;
 #endif
 
+// This will cause random breakage on win32, so disable for now…
 #if 0
 #define dbg_printf(formatX, ...) _ftprintf(stderr, TEXT(formatX), __VA_ARGS__)
 #else
