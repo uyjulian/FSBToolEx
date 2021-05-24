@@ -28,7 +28,7 @@ set the following as the contents::
 
 ``11111`` is the beginning loop point and ``22222`` is the end loop point.
 
-In order to apply the loop point changes, right click on the audio file and select "Reimport". If that does not work, close and reopen Unity, then try again.
+In order to apply the loop point changes, right click on the audio file in the asset browser and select "Reimport". If that does not work, close and reopen Unity, then try again.
 
 If you receive the error "Unspecified error during import of AudioClip", try closing and reopening Unity. If that does not work, please try again with a 64kbps Ogg Vorbis file. If that does not work, please open an issue on this repository with the offending file.
 
