@@ -14,7 +14,7 @@ First, please download the
 build.
 
 Find ``FSBTool64.exe`` in your Unity installation, and rename it to ``FSBTool_original.exe``. Do not rename the original file to ``FSBTool64_original.exe``. For Win32, this will most likely be located in ``%PROGRAMFILES%/Unity/Hub/2018.4.20f1/Editor/Data/Tools/FSBTool/x64/FSBTool64.exe``.
-Rename the new ``FSBTool.exe`` executable to ``FSBTool64.exe``, then place it in the same directory as ``FSBTool_original.exe``.
+Rename the new ``FSBToolEx.exe`` executable to ``FSBTool64.exe``, then place it in the same directory as ``FSBTool_original.exe``.
 
 To add loop points to your audio file, you can use the ``.sli`` file which is compliant with `Kirikiri 2 Loop Tuner <https://krkrz.github.io/krkr2doc/kr2doc/contents/LoopTuner.html>`_ specification.
 

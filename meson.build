@@ -66,7 +66,7 @@ fsbtoolex_includes = [
 ]
 
 executable(
-	'FSBTool',
+	'FSBToolEx',
 	sources: fsbtoolex_src,
 	c_args: fsbtoolex_cflags,
 	link_args: fsbtoolex_ldflags,
